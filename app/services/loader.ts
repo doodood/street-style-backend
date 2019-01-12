@@ -1,5 +1,4 @@
 import { readdirSync, statSync } from 'fs';
-import { resolve } from 'path';
 
 export const loader = (path: string, router?) => {
 
